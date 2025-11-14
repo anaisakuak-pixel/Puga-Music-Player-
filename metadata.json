@@ -1,0 +1,5 @@
+{
+  "name": "Puga Music Prayer ",
+  "description": "A modern, sleek music player application built with React and Tailwind CSS. Upload your MP3 files and enjoy a premium listening experience with playback controls, playlist management, and a stunning audio visualizer.",
+  "requestFramePermissions": []
+}
